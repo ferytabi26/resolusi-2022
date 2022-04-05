@@ -3,9 +3,10 @@ Rencana belajar web
 -css
   *framework bootstrap
   *framework luminance
+-javascript
+  *framework angular
+  *framework react
 -PHP
  *framework laravel
--javascript
- *framework react
 -python
 -bootstrap
