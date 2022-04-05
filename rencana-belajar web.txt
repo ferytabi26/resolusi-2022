@@ -6,5 +6,6 @@ Rencana belajar web
 -PHP
  *framework laravel
 -javascript
+ *framework react
 -python
 -bootstrap
