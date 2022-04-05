@@ -4,5 +4,8 @@ Rencana belajar web
   *framework bootstrap
   *framework luminance
 -PHP
+ *framework laravel
 -javascript
+ *framework react
+-python
 -bootstrap
