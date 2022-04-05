@@ -3,6 +3,6 @@ Rencana belajar web
 -css
   *framework bootstrap
   *framework luminance
--PHP
 -javascript
+  *framework angular
 -bootstrap
